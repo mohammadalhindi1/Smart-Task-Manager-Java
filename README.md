@@ -98,6 +98,8 @@ Dockerize the application
 
 👨‍💻 Author :
 Mohammad Alhindi
-Cloud Computing Graduate | Software Engineer
+Cloud Computing Graduate Software Engineer
+
 GitHub: https://github.com/mohammadalhindi 
+
 LinkedIn: www.linkedin.com/in/mohammad-alhendi13
