@@ -1,4 +1,3 @@
-```
 # Smart Task Manager (Java)
 
 A clean and extensible **task management system** built using **Core Java**.  
@@ -52,8 +51,8 @@ This is not a simple console exercise — it demonstrates real software engineer
 ---
 
 ## 🗂️ Project Structure
-```
 
+```
 src/
 ├── app/
 │ └── Main.java
@@ -68,7 +67,7 @@ src/
 │ └── TaskService.java
 └── utils/
 └── Validator.java
-
+```
 
 ---
 ## ▶️ How to Run
