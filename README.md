@@ -5,7 +5,7 @@ This project focuses on **Object-Oriented Programming (OOP)** fundamentals, **da
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 Smart Task Manager allows users to create, manage, and track tasks with different priorities, statuses, and deadlines.  
 The project is intentionally designed with a clean structure so it can be easily extended into a **Spring Boot application**, **REST API**, or integrated with a database in the future.
@@ -14,7 +14,7 @@ This is not a simple console exercise — it demonstrates real software engineer
 
 ---
 
-## ✨ Features
+## Features
 
 - User-based task management
 - Create, read, update, and delete (CRUD) tasks
@@ -28,7 +28,7 @@ This is not a simple console exercise — it demonstrates real software engineer
 
 ---
 
-## 🧠 Concepts Demonstrated
+## Concepts Demonstrated
 
 ### Object-Oriented Programming (OOP)
 - **Encapsulation** – private fields with controlled access
@@ -82,14 +82,14 @@ java -cp out app.Main
 Or simply run Main.java from your IDE.
 ```
 
-🧪 Example Usage :
+Example Usage :
 Start the application
 Create tasks with priorities and deadlines
 Update task status as work progresses
 List or filter tasks
 Delete completed or unnecessary tasks
 
-📈 Future Improvements :
+Future Improvements :
 Add persistent storage (file or database)
 Add unit tests using JUnit
 Convert to Spring Boot REST API
