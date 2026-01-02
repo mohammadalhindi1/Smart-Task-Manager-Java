@@ -97,8 +97,7 @@ Add authentication and user roles
 Dockerize the application
 
 👨‍💻 Author :
-Mohammad Alhindi
-Cloud Computing || Software Engineer
+Mohammad Alhindi : Cloud Computing || Software Engineer
 
 GitHub: https://github.com/mohammadalhindi 
 
