@@ -103,7 +103,7 @@ The following enhancements could be added to extend the project in the future:
 ## 👨‍💻 Author
 
 **Mohammad Alhindi**  
-Cloud Computing Graduate | Software Engineer  
+Cloud Computing | Software Engineer  
 
 - GitHub: https://github.com/mohammadalhindi  
 - LinkedIn: https://www.linkedin.com/in/mohammad-alhendi13
